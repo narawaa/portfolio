@@ -1,0 +1,1 @@
+export const ACCESS_KEY = '8d17346f-2436-491f-b93d-8b1647f9c911'
